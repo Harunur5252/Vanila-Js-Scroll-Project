@@ -1,0 +1,39 @@
+.top{
+  background-color: rebeccapurple;
+  border: none;
+  height: 600px;
+  min-width: 1000px;
+}
+.top2{
+  background-color: rgb(35, 25, 184);
+  border: none;
+  height: 400px;
+  min-width: 1000px;
+}
+.top3{
+  background-color: rgb(184, 25, 144);
+  border: none;
+  height: 400px;
+  min-width: 1000px;
+}
+.margin{
+   margin-top: 20%;
+   margin-left: 36%;
+}
+.about{
+  margin-left: 45%;
+}
+.contact{
+  margin-left: 45%;
+}
+.main{
+  background-color: chocolate;
+  box-shadow: 5px 5px 2px 2px rgb(31, 19, 19);
+}
+
+.color{
+  font-size: 19px;
+  font-weight: 200;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
